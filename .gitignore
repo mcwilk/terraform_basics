@@ -1,1 +1,15 @@
+# State files
+*.tfstate
+*.tfstate.backup
 
+# Lock files
+.terraform.lock.hcl
+
+# Providers & modules
+.terraform/
+
+# Local infra
+.infra/
+*.txt
+
+# Secrets

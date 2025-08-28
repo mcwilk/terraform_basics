@@ -1,0 +1,1 @@
+file_content1 = "Content of the file created by Terraform (overridden default value)"
