@@ -13,3 +13,7 @@
 *.txt
 
 # Secrets
+
+# Go
+go.mod
+go.sum
