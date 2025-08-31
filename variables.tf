@@ -7,7 +7,7 @@ variable "filename1" {
 variable "filename2" {
   type        = string
   default     = "./infra/resources/sample_file2.txt"
-  description = "2nd file created by Terraform"
+  description = "2nd file created by Terraform & based on existing file"
 }
 
 variable "file_content1" {
